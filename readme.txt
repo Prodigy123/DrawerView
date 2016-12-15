@@ -1,1 +1,1 @@
-![image](![image](https://github.com/DrawerView/display.gif)
+![image](https://github.com/DrawerView/display.gif)
